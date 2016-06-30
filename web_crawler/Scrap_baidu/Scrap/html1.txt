@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8" />
+<title>七原罪 伊丽莎白·里昂妮丝 cosplay | 半次元-第一中文COS绘画小说社区</title>
+<meta property="qc:admins" content="31677773016654" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit" />
+<link rel="shortcut icon" href="/Public/Image/favicon.ico?20140414" />
+<meta name="keywords" content="鳗鱼霏儿,伊丽莎白·里昂妮丝,七原罪,萝莉,ACG,cos,cosplay,coser,动漫,二次元" />
+<meta name="description" content="《七原罪》伊丽莎白。半次元cosplay频道，全球唯一中文专业cosplay平台，Coser们可以在这里发表COS，买卖二手服装道具，招募CP和队友，学习和分享教程，结识更多同好。" />
+<link href="/Public/Css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/Public/??Vendor/jquery.js,Vendor/vendor.js,JS/common_c1a8470.js,Vendor/tbox/box.js"></script>
+<!--[if lt IE 9]>
+    <script remote src="http://apps.bdimg.com/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <script remote src="//cdnjscn.b0.upaiyun.com/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+
+    <link href="/Public/Css/main1.css" rel="stylesheet" type="text/css" />
+    <link href="/Public/Css/main2.css" rel="stylesheet" type="text/css" />
+    <link href="/Public/Css/ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+</head>
+<body>
+<div class="div_body">
+<div class="db bg-tip ovf">
+<div id="major-reminder" class="lh50 ma fz14" value='20160506'>
+<img src="/Public/Image/payment/tip-cat.png" class="img-vm-helper mr20">
+恭喜你获得投喂(打赏)功能内测资格！快<a href="/home/gift/payStatus">戳我开通</a>，获取收益吧 (・ω< )✧
+<i class="i-close ml35 curp"></i>
+</div>
+</div>
+<script type="text/javascript">$(function() {var tipValue =document.getElementById("major-reminder").getAttribute('value');var strStoreDate =localStorage.getItem("tipState");if (strStoreDate !=tipValue) {$('#major-reminder').show();};$('#major-reminder').on('click','.i-close',function(event) {event.preventDefault();$(this).parent().hide();localStorage.setItem("tipState",tipValue);});})
+</script>
+<header id="l-header">
+<div class="row">
+<nav class="site-nav">
+<a class="site-nav__item " href="/home/user/index">首页</a>
+<a class="site-nav__item " href="/illust">绘画</a>
+<a class="site-nav__item " href="/novel">写作</a>
+<a class="site-nav__item active" href="/coser">COS</a>
+<a class="site-nav__item l-posr " href="/daily">日常<i class="i-beta"></i></a>
+<a class="site-nav__item " href="/group/discover">讨论</a>
+<div class="site-nav__item dropdown-menu dropdown-menu--more curp">
+更多 <nav class="dropdown-menu__bd">
+<a class="dropdown-menu__item" href="/expo">漫展</a>
+<a class="dropdown-menu__item" href="/article">教程</a>
+<a class="dropdown-menu__item" href="/tags/event">活动</a>
+<a class="dropdown-menu__item" href="/static/app">APP</a>
+</nav>
+</div>
+</nav>
+<div class="js-closeHdMsgCenter dropdown-menu dropdown-menu--big l-right" style="position: reative; z-index: 1;">
+<span id="js-headerUser" class="dropdown-menu__toggle headerItem">天悬山河</span>
+<nav class="dropdown-menu__bd">
+<a class="dropdown-menu__item" href="/u/1531070">
+<span class="_icon-text"><i class="i-home-white mr10"></i>个人主页</span>
+</a>
+<a id="js-headerMsg" class="dropdown-menu__item" href="/home/message">
+<div class="_icon-text"><i class="i-mail-white mr10"></i>私信<span id="js-headerMsgCount"></span></div>
+</a>
+<a class="dropdown-menu__item" href="/home/account">
+<span class="_icon-text"><i class="i-gear-white mr10"></i>设置</span>
+</a>
+<a class="dropdown-menu__item" href="/home/account/postsAdmin">
+<span class="_icon-text"><i class="i-admin-white mr10"></i>作品管理</span>
+</a>
+<a class="dropdown-menu__item" href="/home/gift/payStatus">
+<span class="_icon-text"><i class="i-fish-white mr10"></i>投喂管理</span>
+</a>
+<a class="dropdown-menu__item" href="/home/public/logout">
+<span class="_icon-text"><i class="i-shutdown-white mr10"></i>退出</span>
+</a>
+</nav>
+</div>
+<div class="l-right flyout" style="position: reative; z-index: 0;">
+<a id="js-headerRemindToggle" class="headerItem" href="javascript:;" data-dropdown="#js-headerNotifyCenter">通知</a>
+<div id="js-headerNotifyCenter" class="dropdown" style="display: none;">
+<div class="flyout__content hdMsgCenter l-hdMsgCenterWrap">
+<i class="_caret"></i>
+<div class="ovf">
+<nav id="js-hdMsgCenterNav" class="hdMsgCenter__nav l-clearfix">
+<a id="js-headerNotifyCount" class="js-hdMsgCenterItem l-left minor js-tabItem" href="javascript:;" data-target="#js-headerNotifyList">
+<div class="l-clearfix dib vam">
+<span class="l-left mr4">消息</span>
+</div>
+</a>
+<b class="b l-left"></b>
+<a id="js-headerGroupCount" class="js-hdMsgCenterItem l-left minor js-tabItem" href="javascript:;" data-href="/home/message/group" data-target="#js-headerGroupListWrap">
+<div class="l-clearfix dib vam">
+<span class="l-left mr4">讨论</span><span class="js-hdMsgCenterCount l-left numBadge mt10" style="display: none;"></span>
+</div>
+</a>
+</nav>
+<div class="hdMsgCenter__bd">
+<ul id="js-headerNotifyList" class="js-hdMsgCenterList hdMsgCenter__list border-list scrollbar _hide">
+<i class="spinner vhcenter" style="display: none;"></i>
+<li>
+<a class="dib stretch fz14 text l-clearfix js-hdMsgCenterContent" href="/home/message/notify" target="_blank" data-type="message-notify">
+<i class="i-notice-comment mr10"></i>评论 <span class="js-hdMsgCenterCommentCount js-hdMsgCenterContentCount l-right numBadge _hide"></span>
+</a>
+</li>
+<li>
+<a class="dib stretch fz14 text l-clearfix js-hdMsgCenterContent" href="/home/message/remind" target="_blank" data-type="message-remind">
+<i class="i-notice-remind mr10"></i>提醒 <span class="js-hdMsgCenterRemindCount js-hdMsgCenterContentCount l-right numBadge _hide"></span>
+</a>
+</li>
+<li>
+<a class="dib stretch fz14 text l-clearfix js-hdMsgCenterContent" href="/home/message/announce" target="_blank" data-type="message-announce">
+<i class="i-notice-announce mr10"></i>公告 <span class="js-hdMsgCenterAnnounceCount js-hdMsgCenterContentCount l-right numBadge _hide"></span>
+</a>
+</li>
+<li>
+<a class="dib stretch fz14 text l-clearfix js-hdMsgCenterContent" href="/u/1531070/follower" target="_blank" data-type="message-user_follow">
+<i class="i-notice-newfans mr10"></i>新粉丝 <span class="js-hdMsgCenterNewfansCount js-hdMsgCenterContentCount l-right numBadge _hide"></span>
+</a>
+</li>
+<li>
+<a class="dib stretch fz14 text l-clearfix js-hdMsgCenterContent" href="/home/message/novelUpdate" target="_blank" data-type="message-novel_update">
+<i class="i-notice-rss mr10"></i>订阅连载 <span class="js-hdMsgCenterRssCount js-hdMsgCenterContentCount l-right numBadge _hide"></span>
+</a>
+</li>
+<li>
+<a class="dib stretch fz14 text l-clearfix" href="/u/1531070/ask" target="_blank">
+<i class="i-notice-ask mr10"></i>勾搭 <span class="l-right js-hdMsgCenterAskCount numBadge _hide"></span>
+</a>
+</li>
+</ul>
+<div id="js-headerGroupListWrap" class="_hide">
+<ul id="js-headerGroupList" class="js-hdMsgCenterList hdMsgCenter__list border-list scrollbar">
+<i class="spinner vhcenter" style="display: none;"></i>
+</ul>
+<div id="js-topicEmpty" class="center _hide topicEmptyWrap mb15">
+<a class="topicEmpty" href="/group/discover">
+<img src="/Public/Image/topicEmpty.png">
+</a>
+<a class="fz14" href="/group/discover">前往讨论频道</a>
+</div>
+<footer class="hdMsgCenter__ft">
+<a id="js-hdMsgCenterSeeAll" class="l-right minor" href="javascript:;">查看全部&gt;</a>
+</footer>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>$(function() {seajs.use('/Public/JS/module/headerLoginedRight_59cda6c.js');});</script>
+<script id="tpl-headerMsg" type="text/template">
+    @{each msgs as msg, index}
+        <li>$${msg.title}</li>
+    @{/each}
+</script>
+<script id="tpl-headerGroupMsg" type="text/template">
+    @{each msgs as msg, index}
+        <li>
+            <a class="text tableMiddle" href="/group/list/${msg.gid}?sort=create#postList">
+                <span class="tableMiddle__inner  w220">$${msg.name}</span>
+                <span class="tableMiddle__inner tar red">+${msg.count}</span>
+            </a>
+        </li>
+    @{/each}
+</script>
+<div class="l-right posr publish-btn">
+<a class="site-publish _btn--green l-left">
+<span class="_icon-text">
+<i class="i-publish"></i>发布 </span>
+</a>
+<div class="publish-loaf radius3 round-shadow posa">
+<div class="publish-title minor fz14">
+我要发布... </div>
+<div class="publisher__btnSet l-clearfix">
+<a href="/illust/newpost" class="js-reqDrawer">
+<button>
+<i class="publisher__illust"></i>绘画 </button>
+</a>
+<b class="b"></b>
+<a href="/novel/newpost" class="js-reqWriter">
+<button>
+<i class="publisher__novel"></i>写作 </button>
+</a>
+<b class="b"></b>
+<a href="/coser/newpost" class="js-reqCoser">
+<button>
+<i class="publisher__cos"></i>COS </button>
+</a>
+<b class="b"></b>
+<button class="js-daily__create"><i class="publisher__daily"></i>日常</button>
+<b class="b"></b>
+<button class="js-group__create"><i class="publisher__group"></i>讨论</button>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="_box">
+<div class="row l-subNav l-clearfix">
+<a href="/coser" title="半次元-COS频道">
+<img class="mt13 l-left mr20" src="/Public/Image/sub-nav/logo-cos-channel.png"/>
+</a>
+<ul class="l-left fz14">
+<li class="l-left l-subNav__item">
+<a class="_icon-text text js-subNavItem-index-index" href="/coser">
+<i class="i-sub-nav i-sub-nav-home"></i>频道首页 </a> </li><li class="l-left l-subNav__item">
+<a class="_icon-text text js-subNavItem-index-allwork js-subNavItem-index-allpre js-subNavItem-index-alldaily js-subNavItem-hot-listallwork js-subNavItem-hot-listallcharacter js-subNavItem-index-toppost100 js-subNavItem-index-discover js-subNavItem-index-monthtoppost" href="/coser/toppost100">
+<i class="i-sub-nav i-sub-nav-hot"></i>热门COS </a> </li><li class="l-left l-subNav__item">
+<a class="_icon-text text js-subNavItem-coser-index" href="/coser/allcoser">
+<i class="i-sub-nav i-sub-nav-cat"></i>TopCoser </a> </li><li class="l-left l-subNav__item">
+<a class="_icon-text text js-subNavItem-flea-search" href="/coser/fleasearch">
+<i class="i-sub-nav i-sub-nav-second"></i>二手 </a> </li><li class="l-left l-subNav__item">
+<a class="_icon-text text js-subNavItem-recruit-index" href="/coser/recruit">
+<i class="i-sub-nav i-sub-nav-recruitment"></i>招募 </a> </li> </ul>
+<div class="l-right mr15">
+<form action="/search/coser" method="get">
+<div id="js-subNavSearch" class="search-input search-input--flat l-subNav__search">
+<input type="text" name="k" maxlength="40" onfocus="$(this).parent().find('.search_link').hide();" placeholder="搜索COS、绘画、文、用户..." value="" />
+<input type="submit" value=""/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<script>$(function(){var settingHook ="".toLowerCase();if (settingHook) {$(".js-subNavItem-" + settingHook).addClass('sub_current');} else {$(".js-subNavItem-" + "Detail-index".toLowerCase()).addClass('sub_current');}
+seajs.config({alias:{'search':'/Public/JS/module/search_4bd406e.js'
+}
+});seajs.use(['search'],function(search) {search.init('#js-subNavSearch');$('#js-subNavSearch').on('focus',function() {$(this).closest('.search-input--flat').addClass('active');});$('#js-subNavSearch').on('blur',function() {$(this).closest('.search-input--flat').removeClass('active');});});});</script>
+<div class="container mt25" data-work-owner-uid="1038928" page-id="cos-detail" data-cp-id="56442" data-rp-id="589430" data-forbidden-right-click="1">
+<div class="row">
+<div class="col-small">
+<div id="js-hotFixWrap">
+<div id="js-hotFix" style="z-index: 1">
+<div class="mb10">
+<div class="detail-user-info _box js-detail-user-info">
+<div class="center">
+<a class="_avatar _avatar--xl _avatar--user mb10" href="/u/1038928" title="鳗鱼霏儿">
+<img src="http://user.bcyimg.com/Public/Upload/avatar/1038928/debfe15f462e4eddaf5177cbdf7b4e2a/big.jpg" alt="鳗鱼霏儿"/>
+</a>
+<div class="mb10">
+<div class="dib">
+<div class="_icon-text _icon-text--reverse l-detailUser-name">
+<i class="i-new-sex-0"></i>
+<a class="fz14 blue1" href="/u/1038928" title="鳗鱼霏儿">鳗鱼霏儿</a>
+</div>
+</div>
+</div>
+<div class="vhr vhr--middle minor">
+<a href="/u/1038928/following" class="vhr__item minor">关注&nbsp;8</a>
+<a href="/u/1038928/follower" class="tal vhr__item vhr__item--last minor">粉丝&nbsp;36656</a>
+</div>
+<div class="mt10 mb5 minor ph25 maxh36 ovf center">
+CN：鳗鱼霏儿 微博：http://weibo.com/u/1728752564｜Q群：88650800｜LOL｜JK.&hellip; </div> <div class="dib vam mt10">
+<div class="l-left mr10">
+<div class="_btn _btn--gray _btn--no-hover _btn--secondary _btn--sm">
+已关注 </div> </div>
+<a class="l-left mr10 _btn _btn--default _btn--sm _btn--icon" onclick="ui.sendmessage(1038928)">
+<div class="_icon-text">
+<i class="i-mail-secondary"></i>
+私信 </div>
+</a>
+<a class="l-left _btn _btn--default _btn--sm _btn--icon" href="/u/1038928/ask">
+<span class="_icon-text">
+<i class="i-microphone-secondary"></i>
+勾搭 </span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="js-hotFix-hide">
+<div class="_box js-detail-toplist h36 maxh204 ovf">
+<ul class="detail_topList ph25">
+<a href="/coser/toppost100?type=week&date=20160611" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-11</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">1</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=week&date=20160612" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-12</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">1</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=week&date=20160613" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-13</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">1</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=week&date=20160610" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-10</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">1</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=week&date=20160609" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-09</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">1</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=lastday&date=20160608" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-08</span>
+<span>
+日榜
+</span>
+<span class="l-right">第 <span class="red fz18">1</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=lastday&date=20160607" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-07</span>
+<span>
+日榜
+</span>
+<span class="l-right">第 <span class="red fz18">3</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=week&date=20160608" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-08</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">4</span> 名</span>
+</li>
+</a><a href="/coser/toppost100?type=week&date=20160607" target="_blank" class="minor">
+<li class="fz14 pt10 pb5 border-box">
+<span class="mr10">2016-06-07</span>
+<span>
+周榜
+</span>
+<span class="l-right">第 <span class="red fz18">17</span> 名</span>
+</li>
+</a> </ul>
+</div>
+<a class="center bgFa db mb10 border-shadow top-bordered pt5 pb5 js-showMoreItem" href="javascript:;"><span class="minor">查看上榜纪录</span><i class="i-arrow-gray vam ml5"></i></a><script type="text/javascript">$(function() {seajs.use("/Public/JS/module/detail.topList_ba58c2c.js");});</script>
+</div> <div class="_box mb10">
+<div class="detail-work-info__recommend-zan">
+<div id="js-detailZanTuijian-tuijian" class="btn btn--recommend btn--pink btn--base-border-radius">推荐</div> <div id="js-detailZanTuijian-zan" class="btn btn--pink btn--zan btn--base-border-radius " data-zan="2491" data-token="afd50610e51901576b69c1">
+<div class="btn__text-wrap">
+<i></i>
+赞&nbsp;(2491)
+</div>
+</div> </div>
+<div class="l-detail-followers">
+<div class="detail-followers js-detail-followers ">
+<i></i>
+<ul>
+<li class="detail-followers__follower">
+<a href='/u/871118' class='username' target='_blank' title='琅嬛_'><img src=http://user.bcyimg.com/Public/Upload/avatar/871118/062010a08b63429db093e6bb1ac0afa7/small.jpg></a> </li><li class="detail-followers__follower">
+<a href='/u/741671' class='username' target='_blank' title='为什么起个名字这么难呢'><img src=http://user.bcyimg.com/Public/Upload/avatar/741671/50c97839410249588773039a5aaebd2a/small.jpg></a> </li><li class="detail-followers__follower">
+<a href='/u/1058662' class='username' target='_blank' title='shenqiswx'><img src=/Public/Image/user_pic_small.png></a> </li><li class="detail-followers__follower">
+<a href='/u/1568243' class='username' target='_blank' title='JayceMao_qq'><img src=/Public/Image/user_pic_small.png></a> </li><li class="detail-followers__follower">
+<a href='/u/1554921' class='username' target='_blank' title='Nightangel'><img src=/Public/Image/user_pic_small.png></a> </li><li class="detail-followers__follower">
+<a href='/u/1357764' class='username' target='_blank' title='KOS-MOS'><img src=http://user.bcyimg.com/Public/Upload/avatar/1357764/d4801bc419984c47beaf99fe41993256/small.jpg></a> </li><li class="detail-followers__follower">
+<a href='/u/1568913' class='username' target='_blank' title='莣汜嗱尅嗗佲杺哋痌'><img src=/Public/Image/user_pic_small.png></a> </li><li class="detail-followers__follower">
+<a href='/u/1501122' class='username' target='_blank' title='时间时间～～_qq'><img src=http://user.bcyimg.com/Public/Upload/avatar/1501122/aae377b225234817b9b10ddf64439387/small.jpg></a> </li><li class="detail-followers__follower">
+<a href='/u/1022195' class='username' target='_blank' title='刀喰狂梦'><img src=http://user.bcyimg.com/Public/Upload/avatar/1022195/baec034a046b4952b3be0b12ecc92fdf/small.jpg></a> </li> </ul>
+</div>
+</div>
+<div class="mr10 ml10 pv10 top-bordered">
+<div class="l-clearfix">
+<div class="l-left">
+<script>var url=location.href;var urlpic='http://thumb.bcyimg.com/coser/thumbevent/56442/589430';var title ='在半次元看到篇超棒的七原罪COS~o(≧v≦)o~ Coser：鳗鱼霏儿';title =title + '快来看看>>' + url + '想看更多？下载半次元 APP>>http://bcy.net/static/app）@半次元cosplay频道';var titleS ='【七原罪COS-伊丽莎白·里昂妮丝】';var desc ='';desc ='超棒！已有2491个小伙伴赞过，快来看看（分享自半次元）';var osuTit ="#半次元COS系列赛#六回目 我刚刚在半次元投了七原罪COS一票~Coser:鳗鱼霏儿";osuTit =osuTit + ",@半次元cosplay频道 [投TA一票戳]";</script>
+<ul class="l-clearfix">
+<label class="l-left minor mr5">分享到</label>
+<li class="l-left mr5 i-sina-social"><a id="sina_share"></a></li>
+<li class="l-left mr5 i-qqzone-social"><a id="qqzone_share"></a></li>
+<li class="l-left mr5 i-qq-social"><a id="qq_share"></a></li>
+<li class="l-left mr5 i-wechat-social"><a id="wechat_share"></a></li>
+<li class="l-left i-renren-social"><a id="renren_share"></a></li>
+</ul>
+<script>$(function() {seajs.config({alias:{'socialShare':'/Public/JS/module/socialShare_067caa9.js'
+}
+});seajs.use(['socialShare'],function(socialShare){$("#sina_share").click(function(event){event.preventDefault();socialShare.shareWeibo(urlpic,title);});$("#renren_share").click(function(event){event.preventDefault();socialShare.shareRenren(urlpic,titleS,desc);});$("#qqzone_share").click(function(event){event.preventDefault();socialShare.shareQzone(urlpic,titleS,desc);});$("#qq_share").click(function(event){event.preventDefault();socialShare.shareQQ(urlpic,titleS,desc);});$("#wechat_share").click(function(event){event.preventDefault();socialShare.shareWechat();});})
+});</script>
+</div>
+<div class="l-clearfix l-right">
+<span class="minor l-left">本作品不可以右键</span>
+<div class="l-right ml5 l-copyright">
+<i class="i-copyright-secondary curp"></i>
+<div class="l-copyright-dropdown">
+<div class="_box island deep-shadow">
+<div class="l-clearfix fz14 lh18">
+<i class="i-signature-sm mr10"></i>署名+原地址
+</div>
+<div class="l-clearfix mt10 fz14 lh18">
+<i class="i-disable-profits-sm mr10"></i>非商业性使用
+</div>
+<div class="l-clearfix mt10 fz14 lh18">
+<i class="i-disable-reprint-sm mr10"></i>禁止未授权转载
+</div> <div class="l-clearfix mt10 fz14 lh18">
+<i class="i-disable-change-sm mr10"></i>禁止修改
+</div>
+<div class="l-clearfix mt20">
+<a class="l-right minor" href="/static/transport#tab_rule" target="_blank">了解详情</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_box mb10 l-bcy-god">
+<img class="l-bcy-god__img mr10" src="/Public/Image/payment/giftDetail.png">
+<div class="w125 l-left">
+<div class="tableMiddle l-bcy-god__title">
+<p class="red tableMiddle__inner">记得来投喂鱼粮哟，承包鱼塘从你做起~么么哒~</p>
+</div>
+</div>
+<a class="l-bcy-god__forecast _btn _btn--red _btn--wrap-border _btn--circle-s js-gift" href="javascript:;">
+<p>投喂</p>
+<p>TA</p>
+</a>
+</div>
+<script>$(function() {seajs.config({alias:{'sendGift':'/Public/JS/module/send.gift_d47499c.js'
+}
+});seajs.use(['sendGift'],function(sendGift) {sendGift.init({post_uid:'1038928',post_name:'鳗鱼霏儿',post_type:'cos',post_id:'589430'
+});});});</script>
+<script id="tpl-QR-Code" type="text/template">
+<div class="center pb20">
+    <p class="fz16 mb20">投喂 <span class="name">${post_name}</span>
+    @{if charge_type}
+        @{if charge_type === 'one'}
+        100个猫粮（ <span class="red">¥1.00</span> ）
+        @{else if charge_type === 'five'}
+        500个猫粮（ <span class="red">¥5.00</span> ）
+        @{else if charge_type === 'ten'}
+        1000个猫粮（ <span class="red">¥10.00</span> ）
+        @{else if charge_type === 'fifty'}
+        5000个猫粮（ <span class="red">¥48.00</span> ）
+        @{else}
+        10000个猫粮（ <span class="red">¥95.00</span> ）
+        @{/if}
+    @{else}
+        ${post_count}个猫粮
+    @{/if}
+    </p>
+    <div class="QR-wrapper dib mb10">
+        <div id='payment-QR' class="dib">
+        </div>
+    </div>
+    <p class="fz16 mb25 lh25">
+        请使用
+        <span><i class="i-alipay"></i>支付宝</span>
+        扫描二维码支付
+    </p>
+    <div class="_hide js-showBtn">
+        <button class="_btn _btn--default _btn--l fz16 w125 mr10 pl12 js-needHelp">支付遇到问题</button>
+        <button class="_btn _btn--red _btn--l fz16 w125 js-success">支付完成</button>
+    </div>
+</div>
+</script>
+<script id="tpl-gift-success" type="text/template">
+<div class="center">
+    <img src="/Public/Image/payment/pay-success.png" class="dib vam mb30" />
+    <p class="fz16 mb30">投喂成功！查看 <a href="/home/gift/listSendGifts" target="_blank">我送出的投喂</a></p>
+    <div class="mb50">
+        <button class="_btn _btn--red _btn--l w150 js-finished" href="javascript:;">确定</button>
+    </div>
+</div>
+</script>
+<script id="tpl-gift-timeOut" type="text/template">
+<div class="center">
+    <img src="/Public/Image/payment/404-QR.png" class="dib vam mb30" />
+    <p class="fz16 mb30">二维码超时，请重新刷新页面</p>
+    <div class="mb50">
+        <button class="_btn _btn--red _btn--l w150 js-refresh" href="javascript:;">确定</button>
+    </div>
+</div>
+</script>
+<div class="js-paymentList"></div> </div>
+</div>
+</div>
+<div class="col-big">
+<div class="_box">
+<div class="l-detail-post">
+<article class="post post--cos">
+<header class="pt30 pb15 ph20 mb25 border-bottom">
+<div class="post__title">
+<h1 class="js-post-title">
+《七原罪》伊丽莎白 </h1>
+<a class="post__prev-1" href="/coser/detail/56442/578230"></a> <a class="post__next-1" href="/coser/detail/56442/603741"></a> </div>
+<div class="post__info">
+<div class="post__type post__info-group mb20">
+<label for="">
+<a href="/coser/allwork">[正片]</a>
+</label>
+<span>
+&nbsp;&nbsp;&nbsp;共16P&nbsp;&nbsp;&nbsp;&nbsp;2016-06-05 17:59:15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+<a class="l-right fz14 denounce" href="javascript:;" id="js-denounce" style="color:#959595">举报</a> </div>
+<div class="post__detail-tag">
+<span>
+<ul class="tags js-tags" style="width: 700px;">
+<li class="tag">
+<a href="/circle/index/4840" class="btn btn--base btn--tag-2 btn--base-border-radius-circle btn--work">
+<div class="btn__text-wrap">
+<i class="i-work-tag vam"></i>
+七原罪 </div>
+</a>
+</li>
+<li class="tag js-delete-tag" data-tag-id="51" data-tag-name="萝莉">
+<a class="btn btn--base btn--tag-1 btn--base-border-radius-circle btn--new-tag" href="/tags/name/萝莉">
+<div class="btn__text-wrap">
+萝莉 </div>
+</a> </li><li class="tag js-delete-tag" data-tag-id="57" data-tag-name="御姐">
+<a class="btn btn--base btn--tag-1 btn--base-border-radius-circle btn--new-tag" href="/tags/name/御姐">
+<div class="btn__text-wrap">
+御姐 </div>
+</a> </li><li class="tag js-delete-tag" data-tag-id="3355" data-tag-name="美如画">
+<a class="btn btn--base btn--tag-1 btn--base-border-radius-circle btn--new-tag" href="/tags/name/美如画">
+<div class="btn__text-wrap">
+美如画 </div>
+</a> </li><li class="tag js-delete-tag" data-tag-id="18710" data-tag-name="腿玩年">
+<a class="btn btn--base btn--tag-1 btn--base-border-radius-circle btn--new-tag" href="/tags/name/腿玩年">
+<div class="btn__text-wrap">
+腿玩年 </div>
+</a> </li><li class="tag js-delete-tag" data-tag-id="64692" data-tag-name="我要上推荐">
+<a class="btn btn--base btn--tag-1 btn--base-border-radius-circle btn--new-tag" href="/tags/name/我要上推荐">
+<div class="btn__text-wrap">
+我要上推荐 </div>
+</a> </li>
+<li class="js-btn-add-tag">
+<div class="btn--add-tag">
+添加标签&nbsp;&nbsp;&nbsp;
+<i class="js-add-tag"></i>
+</div>
+</li>
+<li>
+<div class="input-add-tag js-input-tag" style="display: none;">
+<i class="input-add-tag__cancle js-add-tag-cancle"></i>
+<input class="js-add-tag-input" type="text">
+<i class="input-add-tag__confirm js-add-tag-confirm"></i>
+</div>
+</li>
+</ul>
+</span>
+</div>
+<div class="post__role post__info-group fz12">
+<i class="i-characters l-left mr10"></i>
+<span class="maxw700">
+<h2 class="post__role-headline" data-chara="伊丽莎白·里昂妮丝"> <a href="/coser/listhotcharacter/18073" class="text mr5">
+伊丽莎白·里昂妮丝 </a>
+</h2>
+cn:&nbsp;&nbsp;<h3><a href="/u/1038928" class="blue1">鳗鱼霏儿</a></h3>
+</span>
+</div>
+<div class="post__staff post__info-group">
+<i class="i-staff l-left mr10"></i>
+<span style="width: 700px; line-height: 1.5;">
+<div class="post__staff-group">
+<span>摄影：</span>
+<span>9叔</span> </div><div class="post__staff-group">
+<b class="b h12 mr10 ml10 l-left mt3"></b> <span>化妆：</span>
+<h3><a href="/u/1038928" class="blue1">鳗鱼霏儿</a></h3>
+</div><div class="post__staff-group">
+<b class="b h12 mr10 ml10 l-left mt3"></b> <span>后期：</span>
+<span>9叔</span> </div><div class="post__staff-group">
+<b class="b h12 mr10 ml10 l-left mt3"></b> <span>协力：</span>
+<h3><a href="/u/1038928" class="blue1">鳗鱼霏儿</a></h3>
+</div> </span>
+</div> </div>
+</header>
+<div class="post__content js-content-img-wrap js-fullimg js-maincontent mb20">
+这香味，这弹力，真的是女孩纸啊！<br>P2是抱枕图~<br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/49863fd02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/41fc2a402b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/6f2375f02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/66c2af702b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/5b6f5ce02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/95b481f02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/78130ef02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/8d5430a02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/813306c02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/a69927502b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/9cbc21102b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/af5750102b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/b3feb8102b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img5.bcyimg.com/coser/56442/post/4blt/ba998ba02b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/c8a9b4402b0311e6a001477816158679.jpg/w650' /><br/><img class='detail_std detail_clickable' src='http://img9.bcyimg.com/coser/56442/post/4blt/c1a19ff02b0311e6a001477816158679.jpg/w650' /> </div>
+<div class="mt50">
+<div class="declaration fz14 mt30">－著作权归作者本人所有－</div>
+</div> </article>
+</div>
+<div class="imgPost__ft pt15 pb10 l-clearfix bgFa top-bordered">
+<div class="imgPost__left dib">
+<a class="imgPost__prev posr text l-left fz14 lh20 mt20 tar" href="/coser/detail/56442/578230">
+<span>上一篇</span>
+</a>
+<a class="l-left ml30" href="/coser/detail/56442/578230">
+<img class="img60" src="http://img9.bcyimg.com/coser/56442/post/177yn/8dea1b2023c811e6ad4abb881e08e6b5.jpg/2X2">
+</a> </div>
+<a class="text fz14 vat ml30 mr30 mt20 dib" href="/u/1038928/post/cos">作品列表</a>
+<div class="imgPost__right dib">
+<a class="l-left  mr30" href="/coser/detail/56442/603741">
+<img class="img60" src="http://img9.bcyimg.com/coser/56442/post/17814/4c8470e033a411e6aa5495b5cb935c57.jpg/2X2">
+</a>
+<a class="imgPost__next posr l-left text fz14 lh20 mt20 tal" href="/coser/detail/56442/603741">
+<span>下一篇</span>
+</a> </div>
+</div> </div>
+<div class="l-clearfix mt10 mb10">
+<a href="http://bcy.net/tags/name/%E4%B8%A4%E5%B9%B4%E5%89%8DVS%E7%8E%B0%E5%9C%A8?filter=daily" target="_blank">
+<img src="http://img9.bcyimg.com/editor/flag/17815/41051c80347911e6962e2b329ed1629f.jpg" class="db l-left border-shadow border_r_nor"/>
+</a>
+<a href="http://bcy.net/circle/index/6821" target="_blank">
+<img src="http://img5.bcyimg.com/editor/flag/17815/5ef5d940347f11e6a942a7e2b44ef3d1.jpg" class="db l-right border-shadow border_r_nor"/>
+</a>
+</div>
+<div class="mb10">
+<div class="_box p20">
+<header class="pb10 l-clearfix">
+<span class="fz18 text l-left">推荐作品</span>
+<a class="fz12 l-right text" href="/coser/discover" target="_blank">查看更多&nbsp;&gt;</a>
+</header>
+<div class="l-grid l-grid--10">
+<div class="l-grid__inner">
+<div class="l-grid__item newThumbnail newThumbnail--col5 posr js-img-error">
+<a class="newThumbnail__img" href="/coser/detail/22524/592964" target="_blank" title=" ">
+<img src="http://img5.bcyimg.com/article/post/17813/c2f5a68032bf11e6b790b374961ac6ed.jpg/w230" alt="  ">
+</a>
+<div class="bgG newThumbnail__ft full">
+<p class="white">[英雄联盟]装备精良前期酷炫！</p>
+</div> </div><div class="l-grid__item newThumbnail newThumbnail--col5 posr js-img-error">
+<a class="newThumbnail__img" href="/coser/detail/39649/596137" target="_blank" title=" ">
+<img src="http://img9.bcyimg.com/article/post/17815/d736e870344011e6b14ad7d77cb1fa2e.jpg/w230" alt="  ">
+</a>
+<div class="bgG newThumbnail__ft full">
+<p class="white">[刀剑乱舞]小小身躯中的执念都透过眼神传达出&hellip;</p>
+</div> </div><div class="l-grid__item newThumbnail newThumbnail--col5 posr js-img-error">
+<a class="newThumbnail__img" href="/coser/detail/71803/605320" target="_blank" title=" ">
+<img src="http://img5.bcyimg.com/article/post/1781a/c8b1ea90384911e68ff9ef7b5e1ec0c3.jpg/w230" alt="  ">
+</a>
+<div class="bgG newThumbnail__ft full">
+<p class="white">[梦100]眼神温柔，麻麻我想要这样的男票~</p>
+</div> </div><div class="l-grid__item newThumbnail newThumbnail--col5 posr js-img-error">
+<a class="newThumbnail__img" href="/coser/detail/12212/602293" target="_blank" title=" ">
+<img src="http://img5.bcyimg.com/article/post/1781a/c1ff7050384911e68ff9ef7b5e1ec0c3.jpg/w230" alt="  ">
+</a>
+<div class="bgG newThumbnail__ft full">
+<p class="white">[剑网3]杀气十足！不要小看正太萝莉哟~</p>
+</div> </div><div class="l-grid__item newThumbnail newThumbnail--col5 posr js-img-error">
+<a class="newThumbnail__img" href="/coser/detail/4084/598269" target="_blank" title=" ">
+<img src="http://img5.bcyimg.com/article/post/17818/e0f1eaf036b511e692ef19b2ae047e23.jpg/w230" alt="  ">
+</a>
+<div class="bgG newThumbnail__ft full">
+<p class="white">[VOCALOID]场景美哭，飞扬的发丝灵动美好~</p>
+</div> </div> </div>
+</div>
+</div> </div>
+<div class="_box l-detail-left">
+<div class="l-detail-publish">
+<script>var canDeleteOtherPeoplesComments =false;</script>
+<div class="publish" id="ikari">
+<form method="post" oncomplete="false" class="publish__form js-publish__form">
+<input type="hidden" name="publish_type" value="1">
+<textarea id="js-publish-content" name="content" class="publish__content-input js-publish__content-input"></textarea>
+<input type="button" value="评 论" class="publish__submit-btn publish__submit-btn--disabled js-publish__submit-btn" disabled/>
+<div class="l-left">
+<div class="js-facetext facetext facetext--default" data-target="#js-publish-content">
+<a href="javascript:;" class="js-facetext-trigger facetext__trigger">
+</a>
+<div class="_box facetext__list-wrap">
+<a class="js-facetext-close facetext__close close" href="javascrip:;"></a>
+<ul class="facetext__list">
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(。・∀・)ノ゛</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(TωT)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(･ω-｡)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">ヾ(≧∇≦*)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">ヾ(ﾟ∀ﾟ○)ﾂ</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">ヽ(*´Д｀*)ﾉ</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(；ω；｀)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(/ω＼*)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(●＾U＾●)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(｡ゝω･)bﾞ</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(;´ρ`)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">（´・ω・｀）</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">∑(ﾟωﾟﾉ)ノ</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(-д-；)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">（＾ε＾）</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">(`_ゝ´)</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">（＞△＜）</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">m(_ _)m</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">┌(^q^ ┐)┐</a></li>
+<li class="js-facetext-item facetext__item"><a href="javascrip:;">_(:з」∠)_</a></li>
+</ul>
+</div>
+</div>
+</div>
+</form> 
+<div class="l-clearfix fz14 publish__header">
+<div class="text mb10">
+共<span class="red">226</span>条评论
+</div>
+</div>
+<ul class="publish__comment-list js-publish__comment-list">
+<li data-id="2123682" data-uid="239799" class="comment js-comment js-comment--belong-user239799 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/239799' class='comment__avatar-img' target='_blank' title='明风之岚'><img src=http://user.bcyimg.com/Public/Upload/avatar/239799/db3405259f584620937014736097bb8a/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/239799' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='明风之岚'>明风之岚</a> <span class="comment__reply-time lh21">
+<span class="vab">正在撸力学摄影的绝对领域控~</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2123682">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">作为足控，已经把屏幕舔坏了……能舔真足的么(ˉ﹃ˉ)</span>
+</div>
+<div class="minor mt2">14小时前</div>
+</div>
+</li>
+<li data-id="2122521" data-uid="879905" class="comment js-comment js-comment--belong-user879905 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/879905' class='comment__avatar-img' target='_blank' title='天下Miyamoto'><img src=http://user.bcyimg.com/Public/Upload/avatar/879905/b01cd66de31d4307972070c851757d84/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/879905' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='天下Miyamoto'>天下Miyamoto</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2122521">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply"><blockquote class='blkct'>回复 <a href='/u/1038928' class='username' target='_self' title='鳗鱼霏儿'>@鳗鱼霏儿</a> : ヽ(*´Д｀*)ﾉ有注明cn和摄影，非营利的就是授权了</blockquote>非盈利倒是非盈利......不过E站是著名的本子站...</span>
+</div>
+<div class="minor mt2">19小时前</div>
+</div>
+</li>
+<li data-id="2121340" data-uid="1566242" class="comment js-comment js-comment--belong-user1566242 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1566242' class='comment__avatar-img' target='_blank' title='魏一'><img src=/Public/Image/user_pic_middle.png></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1566242' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='魏一'>魏一</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2121340">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">可爱可爱 prprprprppr</span>
+</div>
+<div class="minor mt2">23小时前</div>
+</div>
+</li>
+<li data-id="2121076" data-uid="1559682" class="comment js-comment js-comment--belong-user1559682 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1559682' class='comment__avatar-img' target='_blank' title='曦日王座'><img src=http://user.bcyimg.com/Public/Upload/avatar/1559682/5079e24b29ed4bba8c368979ea8447bf/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1559682' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='曦日王座'>曦日王座</a> <span class="comment__reply-time lh21">
+<span class="vab">朝生夕死</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2121076">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">小骚骚~~里面啥都没穿~~·</span>
+</div>
+<div class="minor mt2">1天前</div>
+</div>
+</li>
+<li data-id="2118894" data-uid="445623" class="comment js-comment js-comment--belong-user445623 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/445623' class='comment__avatar-img' target='_blank' title='工口堂'><img src=http://user.bcyimg.com/Public/Upload/avatar/445623/d033ef9fb31641c3b2c7f840d99db082/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/445623' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='工口堂'>工口堂</a> <span class="comment__reply-time lh21">
+<span class="vam mr3">
+<a class="_tag _tag--user _tag--user--cos" href="/u/445623/post/cos">Coser</a>
+</span> <span class="vab">这家伙懒的突破天际，所有什么都没有留下。</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2118894">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">裸足好美 可以舔吗？</span>
+</div>
+<div class="minor mt2">1天前</div>
+</div>
+</li>
+<li data-id="2118782" data-uid="1476285" class="comment js-comment js-comment--belong-user1476285 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1476285' class='comment__avatar-img' target='_blank' title='夜-半殇'><img src=http://user.bcyimg.com/Public/Upload/avatar/1476285/6e7b2dd9965044ff94c6ca0c0b059d78/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1476285' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='夜-半殇'>夜-半殇</a> <span class="comment__reply-time lh21">
+<span class="vab">主人好懒，什么都没有留下。。。（好吧，留了一点点。&hellip;</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2118782">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">球球好幸福啊（´・ω・｀）~</span>
+</div>
+<div class="minor mt2">1天前</div>
+</div>
+</li>
+<li data-id="2118053" data-uid="1566049" class="comment js-comment js-comment--belong-user1566049 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1566049' class='comment__avatar-img' target='_blank' title='还是算了吧'><img src=/Public/Image/user_pic_middle.png></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1566049' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='还是算了吧'>还是算了吧</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2118053">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">楼主比伊丽莎白好看</span>
+</div>
+<div class="minor mt2">1天前</div>
+</div>
+</li>
+<li data-id="2115053" data-uid="1511014" class="comment js-comment js-comment--belong-user1511014 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1511014' class='comment__avatar-img' target='_blank' title='冻冻妖'><img src=http://user.bcyimg.com/Public/Upload/avatar/1511014/c36ae25535aa494780713ed722ef9386/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1511014' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='冻冻妖'>冻冻妖</a> <span class="comment__reply-time lh21">
+<span class="vam mr3">
+<a class="_tag _tag--user _tag--user--cos" href="/u/1511014/post/cos">Coser</a>
+</span> <span class="vab">cn：冻冻妖 / 一只无偿妆娘～</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2115053">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">撩(。・∀・)ノ゛</span>
+</div>
+<div class="minor mt2">2天前</div>
+</div>
+</li>
+<li data-id="2114353" data-uid="1266545" class="comment js-comment js-comment--belong-user1266545 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1266545' class='comment__avatar-img' target='_blank' title='超伊次元毁逆_qq'><img src=/Public/Image/user_pic_middle.png></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1266545' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='超伊次元毁逆_qq'>超伊次元毁逆_qq</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2114353">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">呃(/ω＼*)</span>
+</div>
+<div class="minor mt2">2天前</div>
+</div>
+</li>
+<li data-id="2113560" data-uid="1512467" class="comment js-comment js-comment--belong-user1512467 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1512467' class='comment__avatar-img' target='_blank' title='远方__ns'><img src=http://user.bcyimg.com/Public/Upload/avatar/1512467/bfaa28e0595a4edca4f04180c0a1b005/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1512467' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='远方__ns'>远方__ns</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2113560">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply"><blockquote class='blkct'>回复 <a href='/u/1180143' class='username' target='_self' title='冷彻灬森'>@冷彻灬森</a> : 事实证明，穿的越少，越能引人注目，上榜时间也越久，赚取金钱越多。</blockquote>净特么扯淡</span>
+</div>
+<div class="minor mt2">2天前</div>
+</div>
+</li>
+<li data-id="2112255" data-uid="1180143" class="comment js-comment js-comment--belong-user1180143 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1180143' class='comment__avatar-img' target='_blank' title='冷彻灬森'><img src=http://user.bcyimg.com/Public/Upload/avatar/1180143/4f1aeb7fbbae40e5a361a8b58fc1e7f1/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1180143' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='冷彻灬森'>冷彻灬森</a> <span class="comment__reply-time lh21">
+<span class="vam mr3">
+<a class="_tag _tag--user _tag--user--cos" href="/u/1180143/post/cos">Coser</a>
+</span> <span class="vab">“樱漫”二次元 147155245 来这里就能找到我哟</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="2">
+赞
+(2) </a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2112255">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">事实证明，穿的越少，越能引人注目，上榜时间也越久，赚取金钱越多。</span>
+</div>
+<div class="minor mt2">2天前</div>
+</div>
+</li>
+<li data-id="2111937" data-uid="1484264" class="comment js-comment js-comment--belong-user1484264 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1484264' class='comment__avatar-img' target='_blank' title='吾王Saber是萝莉(^ω^_qq'><img src=http://user.bcyimg.com/Public/Upload/avatar/1484264/224e47c752f740e3a49e51a4f5a1b5ea/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1484264' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='吾王Saber是萝莉(^ω^_qq'>吾王Saber是萝莉(^ω^_qq</a> <span class="comment__reply-time lh21">
+<span class="vam mr3">
+<a class="_tag _tag--user _tag--user--novel" href="/u/1484264/post/novel">写手</a> </span> <span class="vab">吾王塞高！吾王塞高！吾王塞高！</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2111937">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">这个厉害</span>
+</div>
+<div class="minor mt2">2天前</div>
+</div>
+</li>
+<li data-id="2110763" data-uid="1426099" class="comment js-comment js-comment--belong-user1426099 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1426099' class='comment__avatar-img' target='_blank' title='起风了_走点火'><img src=/Public/Image/user_pic_middle.png></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1426099' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='起风了_走点火'>起风了_走点火</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2110763">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">真 漂亮，美美哒</span>
+</div>
+<div class="minor mt2">2天前</div>
+</div>
+</li>
+<li data-id="2110151" data-uid="1038928" class="comment js-comment js-comment--belong-user1038928 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/1038928' class='comment__avatar-img' target='_blank' title='鳗鱼霏儿'><img src=http://user.bcyimg.com/Public/Upload/avatar/1038928/debfe15f462e4eddaf5177cbdf7b4e2a/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/1038928' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='鳗鱼霏儿'>鳗鱼霏儿</a> <span class="comment__reply-time lh21">
+<span class="vam mr3">
+<a class="_tag _tag--user _tag--user--cos" href="/u/1038928/post/cos">Coser</a>
+<a class="_tag _tag--user _tag--user--illust" href="/u/1038928/post/illust">绘师</a>
+</span> <span class="vab">CN：鳗鱼霏儿 微博：http://weibo.com/u/1728752564｜&hellip;</span> </span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2110151">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply"><blockquote class='blkct'>回复 <a href='/u/879905' class='username' target='_self' title='天下Miyamoto'>@天下Miyamoto</a> : 霏儿，你的COS怎么在E站看到了？你授权了咩？</blockquote>ヽ(*´Д｀*)ﾉ有注明cn和摄影，非营利的就是授权了</span>
+</div>
+<div class="minor mt2">3天前</div>
+</div>
+</li>
+<li data-id="2104117" data-uid="879905" class="comment js-comment js-comment--belong-user879905 post">
+<div class="comment__avatar js-comment__avatar">
+<a href='/u/879905' class='comment__avatar-img' target='_blank' title='天下Miyamoto'><img src=http://user.bcyimg.com/Public/Upload/avatar/879905/b01cd66de31d4307972070c851757d84/middle.jpg></a> </div>
+<div class="comment__right">
+<div class="comment_hd">
+<a href='/u/879905' class='comment__user-name js-comment__user-name dib maxw145 cut vam' target='_blank' title='天下Miyamoto'>天下Miyamoto</a> <span class="comment__reply-time lh21">
+</span>
+<a class="comment__reply-btn js-comment__reply-btn">回复</a>
+<span class="comment__break-line">|</span>
+<a href="javascript:void(0);" class="js-commnet__ding-btn comment__ding-btn" data-ding="0">
+赞
+</a> <a class="comment__delete-btn denounce js-denounce" href="javascript:;" data-id="2104117">举报</a> </div>
+<div class="comment__content js-comment__content">
+<span class="js-comment-content-for-reply comment-content-for-reply">霏儿，你的COS怎么在E站看到了？你授权了咩？</span>
+</div>
+<div class="minor mt2">4天前</div>
+</div>
+</li>
+</ul>
+<a href="javascript:void(0);" class="comment__load-more-btn js-comment__load-more-btn">展开更多</a> </div> </div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">var jscp_id ='56442';var jsrp_id ='589430';var post_data ='正片';var cma_id =0;var frc =true;var HOME ='coser';var detail_work ="七原罪";var detail_character =[];$(function() {$('.js-maincontent img').bind("contextmenu dragstart",function(e){e.preventDefault();})
+.on("click",function(e){if (e.which ===2) e.preventDefault();});$('.js-maincontent .content-img-wrap').prev("br").remove();seajs.use('/Public/JS/module/fullimg_f3fbbca.js');seajs.use("/Public/JS/group/coser_1ccad19.js");seajs.use("/Public/JS/module/scrollout.fix_ad47187.js");});</script>
+</div>
+<div class="row">
+<footer id="l-footer" class="js-footer">
+<div class="row">
+<div class="l-footer__app">
+<div class="l-clearfix">
+<img class="l-left mr20" src="/Public/Image/app.png"/>
+<div class="ovf l-left">
+<span class="footer-headline">手机安装半次元</span>
+<ul>
+<li><a href="http://static.bcyimg.com/banciyuan.apk">安卓客户端</a></li>
+<li><a href="https://itunes.apple.com/cn/app/ban-ci-yuan/id645459270" target="_blank">iOS客户端</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="l-footer__weixin">
+<div class="l-clearfix">
+<img class="l-left mr20" src="/Public/Image/qr-cltAndr.gif"/>
+<div class="ovf">
+<span class="footer-headline">官方微信号</span>
+<ul>
+<li>半次元</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="l-footer__weibo">
+<span class="footer-headline">官方微博</span>
+<ul>
+<li><a href="http://weibo.com/bcycos" target="_blank">@半次元cosplay频道</a></li>
+<li><a href="http://weibo.com/bcyillust" target="_blank">@半次元绘画频道</a></li>
+<li><a href="http://weibo.com/bcynovel" target="_blank">@半次元写作频道</a></li>
+</ul>
+</div>
+<div class="l-footer__cooperationf">
+<ul>
+<li><a href="/static/about">了解半次元</a></li>
+<li><a href="/static/committee">商务合作</a></li>
+<li><a href="javascript:goVer('m');">手机访问</a></li>
+</ul>
+</div>
+<div class="l-footer__user">
+<ul>
+<li><a href="/static/agreement">用户协议</a></li>
+<li><a href="/static/joinus">加入我们</a></li>
+<li><a href="/static/help">帮助中心</a></li>
+</ul>
+</div>
+<div class="l-footer__international">
+<ul>
+<li>
+<div class="posr dib js-lang-hover pt6 mtn6 mtn5">
+<i class="i-international mr5"></i>
+<span class="js-switch-lang js-lang-selection"></span>
+<i class="i-arrow-down-gray dib vam lh18"></i>
+<div class="posa lang-selection round-shadow _hide">
+<a class="_btn--block lang-option borderBox js-lang-option" data-lang="zh" href="javascript:;">中文</a>
+<div class="ph10 _box"><hr class="hr _hr"></hr></div>
+<a class="_btn--block lang-option borderBox js-lang-option" data-lang="en" href="javascript:;">English</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="l-site-record">
+<span class="site-record">© 2016 bcy.net 版权所有<a href="http://www.miibeian.gov.cn/" target="_blank">ICP证：浙ICP备14021595号-1</a> 浙网文[2014]0701-051号 <i class="i-police-record ml5"></i>浙公网安备 33010802002901号</span>
+</div>
+</footer>
+</div>
+<script type="text/javascript" src="/Public/??Vendor/sea.js,Vendor/seajs-combo.js,Vendor/seajs-flush.js,sea.config_777cab9.js"></script>
+<script>var _UID_ ='1531070';$(function() {seajs.config({alias:{'nologinLink':'/Public/JS/module/nologinLink_6c0a3cc.js'
+}
+});seajs.use(['nologinLink'],function(nologinLink) {if (Auth.unLogin()) {nologinLink();}
+});seajs.use('/Public/JS/module/selectLang_5cd2244.js');seajs.use('/Public/JS/module/publishIndex_b6e2a56.js');seajs.flush();$(document).ajaxSend(function(event,xhr,settings){if (typeof _hmt !=="undefined" &&_hmt !==null) {_hmt.push(['_trackPageview',settings.url]);}
+});});</script>
+<div style="display:none;">
+<script>var _hmt =_hmt ||[];(function() {var hm =document.createElement("script");hm.src ="//hm.baidu.com/hm.js?330d168f9714e3aa16c5661e62c00232";var s =document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();</script>
+<script async src="http://s95.cnzz.com/z_stat.php?id=1257708097&web_id=1257708097" language="JavaScript"></script>
+</div>
+</body> </html>
